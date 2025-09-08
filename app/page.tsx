@@ -43,7 +43,7 @@ export default function HomePage() {
           <p className="text-xl text-muted-foreground mb-8">
             Abdul Rehman Bhatti 
           </p>
-          <p>It&apos;s my portfolio website</p>
+
           <button
             onClick={() => document.getElementById("about")?.scrollIntoView({ behavior: "smooth" })}
             className="bg-primary text-primary-foreground px-6 py-3 rounded-lg hover:opacity-90 transition-opacity"
@@ -58,7 +58,7 @@ export default function HomePage() {
           <div className="grid md:grid-cols-2 gap-8">
             <div>
               <p className="text-muted-foreground mb-4">
-                We believe in the power of simplicity. This website demonstrates how effective design doesn't need to be
+                We believe in the power of simplicity. This website demonstrates how effectivedesign doesn&apos;t need to be
                 complicated or rely on heavy frameworks.
               </p>
               <p className="text-muted-foreground">
@@ -178,7 +178,7 @@ export default function HomePage() {
       <footer className="bg-muted text-muted-foreground py-8 px-4 mt-12">
         <div className="max-w-4xl mx-auto text-center">
           <p>&copy; 2025 Simple Website. Built with minimal dependencies and maximum care.</p>
-          <p className="mt-2 text-sm">Demonstrating that great websites don't need complex frameworks.</p>
+          <p className="mt-2 text-sm">Demonstrating that great websites don&apos;t need complex frameworks</p>
         </div>
       </footer>
     </div>
