@@ -178,7 +178,7 @@ export default function HomePage() {
       <footer className="bg-muted text-muted-foreground py-8 px-4 mt-12">
         <div className="max-w-4xl mx-auto text-center">
           <p>&copy; 2025 Simple Website. Built with minimal dependencies and maximum care.</p>
-          <p className="mt-2 text-sm">Demonstrating that great websites doesn&apos;t need complex frameworks</p>
+          <p className="mt-2 text-sm">Demonstrating that great websites don&apos;t need complex frameworks</p>
         </div>
       </footer>
     </div>
