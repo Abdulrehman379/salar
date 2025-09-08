@@ -41,7 +41,7 @@ export default function HomePage() {
         <section id="home" className="text-center py-12">
           <h2 className="text-4xl font-bold mb-4">Simple & Clean Design</h2>
           <p className="text-xl text-muted-foreground mb-8">
-            Abdul Rehman Bhatti
+            Abdul Rehman Bhatti 
           </p>
           <button
             onClick={() => document.getElementById("about")?.scrollIntoView({ behavior: "smooth" })}
