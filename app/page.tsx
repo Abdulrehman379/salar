@@ -104,7 +104,7 @@ export default function HomePage() {
           <h2 className="text-3xl font-bold mb-6">Get In Touch</h2>
           <div className="grid md:grid-cols-2 gap-8">
             <div>
-              <p className="text-muted-foreground mb-6">Ready to start your project? We'd love to hear from you.</p>
+              <p className="text-muted-foreground mb-6">Ready to start your project? We&apos;d love to hear from you.</p>
               <div className="space-y-3">
                 <p className="flex items-center gap-3">
                   <span className="font-semibold">Email:</span>
