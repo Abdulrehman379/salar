@@ -43,6 +43,7 @@ export default function HomePage() {
           <p className="text-xl text-muted-foreground mb-8">
             Abdul Rehman Bhatti 
           </p>
+          <p>It&apos;s my portfolio website</p>
           <button
             onClick={() => document.getElementById("about")?.scrollIntoView({ behavior: "smooth" })}
             className="bg-primary text-primary-foreground px-6 py-3 rounded-lg hover:opacity-90 transition-opacity"
